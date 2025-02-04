@@ -29,3 +29,4 @@ updates:
       composer-packages:
         patterns:
           - "composer/ca-bundle"
+ - dependency-name: "squizlabs/php_codesniffer.update
